@@ -299,7 +299,6 @@ fireguardservices[.]com
 fakeworks[.]com 
 heron[.]com[.]br 
 e-lanresources[.]com 
-protect2[.]fireeye[.]com 
 hapmag[.]com 
 lichota[.]com[.]pl 
 genxdesign[.]net 
@@ -321,7 +320,6 @@ nemesismedia[.]co[.]uk
 servacom[.]net 
 playstudio[.]pl 
 dacres[.]org 
-cp[.]mcafee[.]com 
 volkwein[.]de 
 hbware[.]de 
 grosskinsky[.]de 
