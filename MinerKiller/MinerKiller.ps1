@@ -1,6 +1,10 @@
-# Function adapted from a miner eliminating its competitors
-# Can be used to remove this malware, alongside others
+# The function "Killer" was adapted from a miner eliminating its competitors
+# Can be used to fight back against this malware, alongside others
 # Provided with zero liability (!)
+# 
+# Full details are available in our blog post:
+# https://blog.minerva-labs.com/ghostminer-cryptomining-malware-goes-fileless
+
 Function Killer
 {
 
