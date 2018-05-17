@@ -1,4 +1,4 @@
-**PuffStealer String Deobfuscator**
+## PuffStealer String Deobfuscator
 This script will deobfuscate the AutoIt script discussed in Minerva Labs' blog post:
 https://blog.minerva-labs.com/puffstealer-evasion-in-a-cloak-of-multiple-layers
 
